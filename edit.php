@@ -62,6 +62,7 @@
                 <div id="honeHelp" class="form-text">We'll never share your number with anyone else.</div>
            </div>
 
+      <a href="viewrecords.php"  class="btn btn-default">Back to List</a>
       <button type="submit" name="submit"  class="btn btn-success btn-block">Save Changes</button>
 <?php
        }
